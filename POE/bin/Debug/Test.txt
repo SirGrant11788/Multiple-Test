@@ -1,0 +1,4 @@
+1|What Colour is the sky?|Blue|Green|Red|Black|A
+2|Batman or Superman?|Batman|Superman|Wonderwoman|That fish guy|D
+3|C# or Java|C#|Java|Run Away!|HTML|C
+4|Red or Blue|Red|Blue|NONE|OK|B

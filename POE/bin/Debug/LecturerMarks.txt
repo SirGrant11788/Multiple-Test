@@ -1,0 +1,14 @@
+
+Jeff Jones
+2
+Grant Verheul
+2
+Mark Williams
+1
+Mike Smith
+3
+
+ Average: 2
+ Highest Mark: 3 by Mike Smith
+ Lowest Mark: 1 by Mark Williams
+ The test was out of 4 marks

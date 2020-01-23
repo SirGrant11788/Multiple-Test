@@ -1,0 +1,28 @@
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+C:\Users\Grany\source\repos\POE\POE\bin\Debug\POE.exe.config
+C:\Users\Grany\source\repos\POE\POE\bin\Debug\POE.exe
+C:\Users\Grany\source\repos\POE\POE\bin\Debug\POE.pdb
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.CreateTest.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.MultipleChoiceTest.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.LecturerMarks.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.Properties.Resources.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.StudentMarks.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.Test.resources
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.csproj.GenerateResource.cache
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.exe
+C:\Users\Grany\source\repos\POE\POE\obj\Debug\POE.pdb
+D:\Google Drive\Visual Studio Projects\POE\POE\bin\Debug\POE.exe.config
+D:\Google Drive\Visual Studio Projects\POE\POE\bin\Debug\POE.exe
+D:\Google Drive\Visual Studio Projects\POE\POE\bin\Debug\POE.pdb
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.csprojResolveAssemblyReference.cache
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.CreateTest.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.MultipleChoiceTest.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.LecturerMarks.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.Properties.Resources.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.StudentMarks.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.Test.resources
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.exe
+D:\Google Drive\Visual Studio Projects\POE\POE\obj\Debug\POE.pdb
